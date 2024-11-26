@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 28,
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "country": "UK"
+    },
+    {
+      "id": 3,
+      "name": "Sam Johnson",
+      "age": 23,
+      "country": "Canada"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "age": 30,
+      "country": "Australia"
+    },
+    {
+      "name": "Ruslan",
+      "age": "20",
+      "country": "Ukraine",
+      "id": 5
+    }
+  ]
+}
